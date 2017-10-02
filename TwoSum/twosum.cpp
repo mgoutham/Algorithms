@@ -66,7 +66,7 @@ bool hashSetApproach(vector<int>L,int k){
 }
 
 //Two pointer on sorted array
-//0(n-2)
+//O(n-2)+O(nlogn)
 
 bool twoPointer(vector<int>L,int k){
 
